@@ -33,5 +33,5 @@ Favoriten Seite
 Demo Video
 <video controls>
 <source src="https://demo.jan-kupke.de/rezepte-app" type="video/mp4">
-<a href="https://demo.jan-kupke.de/rezepte-app">Alternativ Link</a>
+<a href="https://demo.jan-kupke.de/rezepte-app" target="_blank">Alternativ Link</a>
 </video>
