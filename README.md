@@ -30,7 +30,8 @@ Favoriten Seite
 
 <img src="images/Screenshot_1697965199.png" height="900" alt="Demo Bild">
 
+Demo Video
 <video controls>
-  <source src="https://demo.jan-kupke.de/rezepte-app" type="video/mp4">
-  Dein Browser unterstützt leider keine Videos
+<source src="https://demo.jan-kupke.de/rezepte-app" type="video/mp4">
+Dein Browser unterstützt leider keine Videos
 </video>
