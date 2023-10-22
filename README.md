@@ -3,10 +3,10 @@
 ## Die Best of rest App der Klasse 8c 
 
 ### Installation
-1. Flutter SDK instalieren
-2. Dart SDK instalieren
-3. Android Studio instalieren
-4. Git repo klonen und in Android Studio öfnen
+1. Flutter SDK installieren
+2. Dart SDK installieren
+3. Android Studio installieren
+4. Git repo klonen und in Android Studio öffnen
 
 ### Demo
 Rezept Vorschau
