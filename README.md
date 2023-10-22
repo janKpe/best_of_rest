@@ -2,7 +2,7 @@
 
 ## Die Best of rest App der Klasse 8c 
 
-### Instalation
+### Installation
 1. Flutter SDK instalieren
 2. Dart SDK instalieren
 3. Android Studio instalieren
