@@ -30,7 +30,7 @@ Favoriten Seite
 
 <img src="images/Screenshot_1697965199.png" height="900" alt="Demo Bild">
 
-<video height="900" controls>
+<video controls>
   <source src="images/2023-10-14 16-37-03.mp4" type="video/mp4">
   Dein Browser unterstützt leider keine Videos
 </video>
