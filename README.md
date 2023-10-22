@@ -33,5 +33,5 @@ Favoriten Seite
 Demo Video
 <video controls>
 <source src="https://demo.jan-kupke.de/rezepte-app" type="video/mp4">
-Dein Browser unterstützt leider keine Videos
+[Alternativ Link](https://www.youtube.com/watch?v=XYZ123), 
 </video>
