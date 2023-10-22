@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'FavPage.dart';
 import 'package:is_first_run/is_first_run.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'rezept.dart';
+
 import 'package:flutter/services.dart';
 import 'data.dart' as data;
 
@@ -85,36 +85,7 @@ class _HomeState extends State<Home> {
   }
 }
 
-/*class HomeScreen extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Colors.lightGreen,
-        title: Center(
-          child: Text("Was darfs heute sein?"),
-        ),
-      ),
-      body: Column(
-        children: [
-          Image.asset("assets/gemüse.png"),
-          Expanded(
-              child: ListView(
-                padding: EdgeInsets.all(20),
-                children: [
-                  FrontPageListElement(
-                      title: "Hefe",
-                      des: "Eigene Hefe? Für wen wäre das nicht der absolute Traum?Die Frage ist nur wie? Ganz einfach...",
-                      Image_url: "assets/holzbrett.png")
-                ],
-              ))
-        ],
-      ),
-    );
-  }
-}
 
- */
 var items;
 
 final _items = data.Rezepte;
